@@ -1,3 +1,7 @@
+---
+title: Using the Telephony Dev Box as a base for your own application
+---
+
 # Using the Telephony Dev Box as a base for your own application
 
 In my [previous blog post](http://mojolingo.com/blog/2013/using-telephony-dev-box/) I went through getting started with the [Telephony Dev Box](https://github.com/mojolingo/Telephony-Dev-Box).  This post picks up where that one left off, and moves from 'getting started' into something a bit more real world - we'll build a complete development environment for a real world voice application.
